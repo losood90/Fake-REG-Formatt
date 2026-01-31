@@ -1,6 +1,6 @@
 body{
   display: flex;
-  height: 100vh;
+  height: 100%;
 }
 
 .side-bar{
@@ -94,4 +94,5 @@ body{
     aspect-ratio: 1/1;
     object-fit: cover;
     width: 100px;
+
 }
